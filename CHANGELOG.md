@@ -1,5 +1,18 @@
 # Changelog
 
+## 2.1.0
+
+- Restore the floating-island feel in Islands variants: the editor and tool windows read as distinct surfaces above the surrounding chrome
+- Clarify active vs. inactive tool window selections in the side stripe
+
+## 2.0.0
+
+- Realign UI palette to canonical Dracula colors (`#282a36` primary background, `#44475a` current line) for a more authentic look across all dark variants
+- Refine button styles: restore default button emphasis, separate pressed from hover state, and make ToggleButton off-state read as inert
+- Pin Table text foreground and distinguish hovered rows from selected rows
+- Use primary background for tool windows, side panel, and tree surfaces for a unified flat surface
+- Fix invisible selected tool window icon in Alucard themes
+
 ## 1.19.1
 
 - Fix VCS file status colors: deleted files are now readable on the selection background, and deleted vs. unversioned vs. conflict are visually distinct (#110)
