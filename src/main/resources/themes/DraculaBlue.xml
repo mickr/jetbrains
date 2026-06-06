@@ -44,7 +44,7 @@
     <option name="ScrollBar.Mac.hoverThumbColor" value="3a3d4c" />
     <option name="ScrollBar.Mac.thumbColor" value="3a3d4c83" />
     <option name="TEARLINE_COLOR" value="6b7090" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="8d64b0" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="648db0" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="c6538d" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="c77e46" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="367a56" />
@@ -1787,8 +1787,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e998ff" />
-        <option name="ERROR_STRIPE_COLOR" value="e998ff" />
+        <option name="FOREGROUND" value="8ab4ff" />
+        <option name="ERROR_STRIPE_COLOR" value="8ab4ff" />
       </value>
     </option>
     <option name="TS.GLOBAL_VARIABLE">
