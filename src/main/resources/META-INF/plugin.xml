@@ -11,8 +11,10 @@
         <themeProvider id="371dce76-a3c5-4429-91af-41cf86094744" path="/themes/Dracula.theme.json"/>
         <themeProvider id="ee2824b3-c1d9-44fa-8b64-de6fe5dd8e37" path="/themes/DraculaColorful.theme.json"/>
         <themeProvider id="f8c76d9a-2c8d-4e4f-a327-d7b5c1ce6d3e" path="/themes/DraculaAlucard.theme.json"/>
+        <themeProvider id="d264beef-8a1a-486a-883c-ccceee3eb7b8" path="/themes/DraculaAlucardBlue.theme.json"/>
         <themeProvider id="9a1b2c3d-4e5f-6789-abcd-ef0123456789" path="/themes/IslandsDracula.theme.json"/>
         <themeProvider id="8b2c3d4e-5f67-89ab-cdef-012345678901" path="/themes/IslandsDraculaColorful.theme.json"/>
         <themeProvider id="7c3d4e5f-6789-abcd-ef01-234567890abc" path="/themes/IslandsDraculaAlucard.theme.json"/>
+        <themeProvider id="ac76307e-10db-4263-9c92-a93761cf8819" path="/themes/IslandsDraculaAlucardBlue.theme.json"/>
     </extensions>
 </idea-plugin>
