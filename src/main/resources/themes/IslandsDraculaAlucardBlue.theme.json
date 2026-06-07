@@ -8,7 +8,7 @@
     "accentColor": "#a3144d",
     "secondaryAccentColor": "#113dff",
     "primaryForeground": "#171717",
-    "primaryBackground": "#fbfbfb",
+    "primaryBackground": "#edeef1",
     "secondaryBackground": "#f2f2f3",
     "hoverBackground": "#ffffff",
     "selectionBackground": "#cfcfde",
@@ -109,7 +109,7 @@
       "borderColor": "selectionBackground"
     },
     "Editor": {
-      "background": "secondaryBackground",
+      "background": "#ffffff",
       "shortcutForeground": "accentColor"
     },
     "EditorTabs": {
